@@ -4,7 +4,7 @@
 * Diego Fabian Osorio Fonseca
 
 # Código en RAPID del módulo utilizado para el desarrollo de la práctica.  
-‘’’ RAPID
+```rapid
 MODULE Module_RDS_di
     CONST robtarget home_RDS:=[[636.195461814,0,604.5],[0.5,0,0.866025404,0],[0,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget R_1:=[[0,0,50],[0,0,1,0],[0,0,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
@@ -92,7 +92,7 @@ MODULE Module_RDS_di
         MoveL S_10,v100,fine,TCP_Porta_marcador\WObj:=Workobject_1;
     ENDPROC
 ENDMODULE
-‘’’
+```
 
 
 
