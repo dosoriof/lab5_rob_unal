@@ -94,7 +94,7 @@ MODULE Module_RDS_di
 ENDMODULE
 ```
 
-# Video que contenga la simulación en RobotStudio, así como la implementación de la practica con los robots reales.  
+# Video con la simulación en RobotStudio y la implementación de la práctica con el IRB 140.  
 
 
 # Descripción de la solución planteada.  
